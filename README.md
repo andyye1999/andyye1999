@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andyye1999, a graduate student of Dalian University of Technology
-- 👀 I’m interested in speech signal processing, Single-channel voice enhancement， such as aec, ns, anc, agc
-- 🌱 I’m currently learning Active Noise Cancellation and WebRTC
+- 👀 I’m interested in speech signal processing, single-channel，such as aec, ns, anc, agc. or multi-channel speech enhancement , Microphone Array Processing 
+- 🌱 I’m currently learning Active Noise Cancellation , WebRTC and beamforming
 - 💞️ I’m looking to collaborate on deep learning on speech signal processing
 - 📫 How to reach me Email as_yhc@163.com
 
