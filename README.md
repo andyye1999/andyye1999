@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andyye1999, a graduate student of Dalian University of Technology This is my [homepage](https://andyye1999.github.io)  
-- 👀 I’m interested in speech signal processing, keyword spotting.
-- 🌱 I’m currently working on keyword spotting.
-- 💞️ I’m looking to collaborate on deep learning on speech signal processing
+- 👀 I’m interested in speech signal processing, keyword spotting, ASR, TTS, LLM
+- 🌱 I’m currently working on semantic VAD.
 - 📫 How to reach me Email as_yhc@163.com  
 
 
